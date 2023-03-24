@@ -1,5 +1,5 @@
 # AquaCrop_regional
-With this code you can excute AquaCrop in parallel for regional applications 
+With this code you can excute AquaCrop (https://www.fao.org/aquacrop/en/) in parallel for regional applications 
 
 _Code to run the spatial AquaCrop model:_
 
